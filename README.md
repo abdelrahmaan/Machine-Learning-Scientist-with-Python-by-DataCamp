@@ -3,3 +3,5 @@ Python programming skill set with the toolbox to perform supervised, unsupervise
 
 
 ## My DataCamp Profile and Certificates: [DataCamp Profile](https://www.datacamp.com/profile/s1551310621)
+
+## Certificate link [Machine Learning Path](https://www.datacamp.com/statement-of-accomplishment/track/e31c6c92a2f9cb8458148845b0ac0b9e37494168)
